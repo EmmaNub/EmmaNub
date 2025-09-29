@@ -26,7 +26,7 @@
 
 💼 LinkedIn: (https://www.linkedin.com/in/emmanuel-j-6b4b9b317/)
 
-🐦 Twitter/X: ( https://x.com/dev3l0per_ )
+🐦 Twitter/X: ( https://x.com/dev3l0per_/ )
 <!--
 **EmmaNub/EmmaNub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
